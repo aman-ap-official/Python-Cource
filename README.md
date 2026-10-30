@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.x" />
 <img src="https://img.shields.io/badge/Requests-Library-2CA5E0?style=for-the-badge&logo=python&logoColor=white" alt="Requests" />
 <img src="https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Intermediate-FFD43B?style=for-the-badge&logo=python&logoColor=black" alt="Level" />
+<img src="https://img.shields.io/badge/Language-English%20%2B%20Hinglish-FF6F61?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English + Hinglish" />
 <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
 <img src="https://img.shields.io/badge/Author-AMAN%20PANDEY-6A5ACD?style=for-the-badge&logo=github&logoColor=white" alt="Author: AMAN PANDEY" />
 
@@ -31,6 +32,19 @@ Every file is small, readable, and built to be **run and modified**, not just re
 
 ---
 
+## 🗣️ Written in English + Hinglish
+
+Every lesson is explained **twice**, so you never get stuck on the language:
+
+| Language | Purpose |
+| :------- | :------ |
+| 🇬🇧 **English** | Clear, standard explanations for every concept |
+| 🇮🇳 **Hinglish** | Friendly Hindi-English mix so the idea feels natural |
+
+> Nahi samajh aaya? Har concept ka **Hinglish** explanation bhi diya gaya hai — padho, samjho, aur code chalao.
+
+---
+
 ## 📚 What's Inside
 
 | Module | Description |
@@ -38,6 +52,7 @@ Every file is small, readable, and built to be **run and modified**, not just re
 | 🐍 **Python Basics** | Variables, data types, conditions, loops, and lists |
 | 🧩 **Practice Questions** | 9 beginner-friendly problems with commented solutions |
 | 🌐 **Requests Lab** | HTTP requests, responses, and status codes explained |
+| 🌦️ **Weather App** | Real API project using Open-Meteo (geocoding + forecast) |
 | 📝 **Detailed Notes** | Bilingual (English + Hinglish) explanations for every concept |
 
 ---
@@ -67,9 +82,12 @@ Python-Cource/
     └── requests/
         ├── requests-labery.py   # First requests program
         ├── requests labery expalin.md
-        └── example/
-            ├── example.py       # GET request demo
-            └── explain.md       # Requests, responses, status codes
+        ├── example/
+        │   ├── example.py       # GET request demo
+        │   └── explain.md       # Requests, responses, status codes
+        └── Project 1/
+            ├── Weather-Application.py   # Real weather app using Open-Meteo
+            └── Weather-Application.md   # Full bilingual guide
 ```
 
 ---
